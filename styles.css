@@ -7,3 +7,13 @@
   color: red;
 }
 
+.calculator {
+  background: #BBE0FF;
+  border: none;
+  outline: 1px solid #5D7080;
+  box-shadow: 1px 1px 1px gray;
+  width: 56vw;
+  height: 70vh;
+  margin: 0 auto;
+  transform: translateY(calc(( 100vh - 70vh ) / 2));
+}
